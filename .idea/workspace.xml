@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3975f89e-aa0d-4ff6-93d4-883430afda9c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unidad1-Ejercicios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3/CuentaCaracteres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3/LanzaCuentaCaracteres_NoEspera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3/texto_largo.txt" afterDir="false" />
-    </list>
+    <list default="true" id="3975f89e-aa0d-4ff6-93d4-883430afda9c" name="Changes" comment="Ejercicio 3 procesos a la vez" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +25,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/alopezdelgado/Documents/ProgramacionDeServicios/Unidad1-Ejercicios/src/ejercicio3"
+    "last_opened_file_path": "C:/Users/alopezdelgado/Documents/ProgramacionDeServicios/Unidad1-Ejercicios"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -73,7 +62,16 @@
       <option name="presentableId" value="Default" />
       <updated>1666700572630</updated>
       <workItem from="1666700573908" duration="1345000" />
+      <workItem from="1666701965088" duration="39000" />
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio 3 procesos a la vez">
+      <created>1666701990428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666701990428</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio 3 procesos a la vez" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 3 procesos a la vez" />
   </component>
 </project>
